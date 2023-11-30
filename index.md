@@ -1,5 +1,5 @@
 ---
-title: Sriram's Homepage
+title: Homepage
 filename: index.md
 --- 
 
