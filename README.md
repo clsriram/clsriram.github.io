@@ -1,5 +1,5 @@
 # Sriram's Homepage
-<img align = "left" src="Photo.JPG" width="600" height="400">
+<img align = "left" src="Photo.JPG" width="300" height="200">
 Hi! I am C L Sriram. Welcome to my homepage.
 <br/><br/>
 
