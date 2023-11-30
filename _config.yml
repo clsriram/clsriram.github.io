@@ -1,0 +1,9 @@
+# Site settings
+title: Sriram's Homepage.
+author:
+  name: C L Sriram
+  email: sriramchelakara@gail.com
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
