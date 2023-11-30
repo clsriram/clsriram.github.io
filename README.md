@@ -1,2 +1,2 @@
 # Welcome to Sriram's homepage.
-![Photo.JPG](./Photo.JPG)
+![Photo.JPG](/home/clsriram/topRemen.github.io/Photo.JPG)
