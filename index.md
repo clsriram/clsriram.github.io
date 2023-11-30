@@ -1,6 +1,6 @@
 ---
 title: Homepage
-filename: README.md
+filename: Index
 --- 
 
 # Sriram's Homepage
