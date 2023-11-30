@@ -1,2 +1,2 @@
 # Welcome to Sriram's homepage.
-![Photo.JPG](Photo.JPG)
+<img src="Photo.JPG" width="100" height="100">
