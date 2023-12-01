@@ -8,3 +8,7 @@ I am a researcher interested in Statistical and Theoretical Condensed Matter Phy
 <br/><br/><br/>
 ## Research Interests
 I am currently working on disordered one dimensional quantum systems. My work deals with the phenomenon of Many-Body Localization.
+
+# Education
+Integrated MSc in Physics, Cochin University of Science and Technology,
+Kochi, Kerala, India.
