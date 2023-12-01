@@ -1,8 +1,3 @@
----
-title: Homepage
-filename: Index
---- 
-
 # Sriram's Homepage
 <img align = "left" src="Photo.JPG" width="300" height="200">
 
