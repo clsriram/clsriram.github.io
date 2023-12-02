@@ -11,4 +11,5 @@ I am currently working on disordered one dimensional quantum systems. My work de
 
 # Education
 Integrated MSc in Physics, Cochin University of Science and Technology,
-Kochi, Kerala, India.
+Kochi, Kerala, India. 
+Master's Thesis: [A study of symmetric and asymmetric simple exclusion processes in the presence of stochastic resetting.]{}
