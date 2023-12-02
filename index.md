@@ -11,8 +11,6 @@ I am currently working on disordered one dimensional quantum systems. My work de
 <br/>
 I have also worked on non-equilibrium systems like the asymmetric and symmetric simple exclusion processes. I study the effect of stochastic resetting on such systems. 
 
-# Education
-Integrated MSc in Physics, Cochin University of Science and Technology,
-Kochi, Kerala, India. 
-Master's Thesis: 
-[A study of symmetric and asymmetric simple exclusion processes in the presence of stochastic resetting.](https://github.com/clsriram/clsriram.github.io/blob/master/Project_Report.pdf)
+# [CV]()
+ 
+# Master's Thesis: [A study of symmetric and asymmetric simple exclusion processes in the presence of stochastic resetting.](https://github.com/clsriram/clsriram.github.io/blob/master/Project_Report.pdf)
