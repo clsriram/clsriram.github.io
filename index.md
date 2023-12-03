@@ -15,4 +15,4 @@ I have also worked on non-equilibrium systems like the asymmetric and symmetric 
 ### [CV](https://clsriram.github.io/CV.pdf)
 
 <br/>
-### Master's Thesis: [A study of symmetric and asymmetric simple exclusion processes in the presence of stochastic resetting.](https://github.com/clsriram/clsriram.github.io/blob/master/Project_Report.pdf)
+### Master's Thesis: [A study of symmetric and asymmetric simple exclusion processes in the presence of stochastic resetting.](https://clsriram.github.io/Project_Report.pdf)
