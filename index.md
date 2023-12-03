@@ -12,7 +12,7 @@ I am currently working on disordered one dimensional quantum systems. My work de
 I have also worked on non-equilibrium systems like the asymmetric and symmetric simple exclusion processes. I study the effect of stochastic resetting on such systems. 
 
 <br/>
-### [CV](CV.pdf)
+### <embed src="CV.pdf" type="application/pdf">
 
 <br/>
 ### Master's Thesis: [A study of symmetric and asymmetric simple exclusion processes in the presence of stochastic resetting.](https://github.com/clsriram/clsriram.github.io/blob/master/Project_Report.pdf)
