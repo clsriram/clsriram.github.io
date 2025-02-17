@@ -5,7 +5,7 @@ Hi! I am Sriram. Welcome to my homepage.
 <br/><br/>
 I am currently a graduate student at the Department of Physics, University of Connecticut, USA.
 <br/>
-# Major Advisor: Prof. Lea Ferreira dos Santos, 
+### Major Advisor: Prof. Lea Ferreira dos Santos, 
 Department of Physics, University of Connecticut.
 <br/>
 I am a researcher interested in Theoretical Condensed Matter and Statisticcal Physics. 
