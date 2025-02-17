@@ -15,7 +15,7 @@ I am a researcher interested in Theoretical Condensed Matter and Statisticcal Ph
 I am currently working on one dimensional disordered closed quantum systems with long range interactions. I am also fairly interested in the study of phenomena such as Many-Body Localization and thermalization. I have also worked on non-equilibrium systems like the asymmetric and symmetric simple exclusion processes where I studied the effect of stochastic resetting.
 
 <br/>
-### [CV](https://clsriram.github.io/CV.pdf)
+### [CV](https://clsriram.github.io/Sriram_CV.pdf)
 
 <br/>
 ### Master's Thesis: [A study of symmetric and asymmetric simple exclusion processes in the presence of stochastic resetting.](https://clsriram.github.io/Project_Report.pdf)
