@@ -1,9 +1,14 @@
 # Sriram's Homepage
 <img align = "left" src="Photo.JPG" width="300" height="200">
 
-Hi! I am C L Sriram. Welcome to my homepage.
+Hi! I am Sriram. Welcome to my homepage.
 <br/><br/>
-I am a researcher interested in Theoretical Condensed Matter and Statistical Physics. I am currently working as a Junior Research Fellow at the Department of Theoretical Physics, Tata Institute of Fundamental Research, Mumbai, India.
+I am currently a graduate student at the Department of Physics, University of Connecticut, USA.
+<br/>
+#### Major Advisor: Prof. Lea Ferreira dos Santos, 
+Department of Physics, University of Connecticut.
+<br/>
+I am a researcher interested in Theoretical Condensed Matter and Statisticcal Physics.
 
 <br/><br/><br/>
 ## Research Interests
